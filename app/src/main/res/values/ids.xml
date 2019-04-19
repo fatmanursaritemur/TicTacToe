@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_player1" type="id"></item>
+    <item name="text_player2" type="id"></item>
+    <item name="button_reset" type="id"></item>
+</resources>
